@@ -1,2 +1,2 @@
 # Meu-primeiro-repositorio
- Meu primeiro repositorio no git e github
+Esse aqui é o meu primeiro repositório utilizando Git e GitHub, utilizando a linguagem de programação Python!
